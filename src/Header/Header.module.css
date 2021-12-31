@@ -1,0 +1,10 @@
+.header {
+    background-color: rgb(243, 140, 140);
+    height: 60px;
+    padding:10px;
+}
+
+.header span{
+    font-size: 40px;
+    font-weight: bolder;
+}
