@@ -1,0 +1,10 @@
+[{
+    "language": "python",
+    "level" : "easy",
+    "noOfQuestions" : 10
+},
+{
+    "language": "python",
+    "level" : "medium",
+    "noOfQuestions" : 20
+}]
